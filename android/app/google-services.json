@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19743262022",
+    "project_id": "kelime-oyunu-2eac1",
+    "storage_bucket": "kelime-oyunu-2eac1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19743262022:android:403e8d81bda87c65d15147",
+        "android_client_info": {
+          "package_name": "com.example.kelimeoyunu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19743262022-t967d2gdhf1nd78g32uhrmbvaeepdjk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO6kMSqisUFRtMQ2Vn-z-jynjOjY6IalY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19743262022-t967d2gdhf1nd78g32uhrmbvaeepdjk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
